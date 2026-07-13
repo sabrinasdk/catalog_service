@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "module": "CommonJS",
+    "rootDir": "./src",
+    "target": "esnext",
+
+    "verbatimModuleSyntax": false,
+
+    "strict": true,
+    "isolatedModules": true,
+    "moduleDetection": "force",
+    "skipLibCheck": true,
+    "outDir": "./dist"
+  }
+}
